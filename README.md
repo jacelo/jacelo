@@ -1,7 +1,10 @@
 # Hi, I'm June 👋
 
 Welcome to my GitHub profile!  
-I’m passionate about building robust and scalable applications using modern technologies, testing methodologies, and agile practices.
+
+I’m a Python/Django developer from Davao City, Philippines, building clean, scalable web experiences. 
+
+**Turning ideas into robust web apps — one Django view at a time.**
 
 ---
 
