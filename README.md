@@ -7,7 +7,7 @@ I’m passionate about building robust and scalable applications using modern te
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-j9qdl5jfk-junes-projects-f4b802cf.vercel.app/api?username=jacelo&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-stats-blond-six-56.vercel.app/api?username=jacelo&theme=vue-dark&show_icons=true&hide_border=false&count_private=true">
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@ I’m passionate about building robust and scalable applications using modern te
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-j9qdl5jfk-junes-projects-f4b802cf.vercel.app/api/top-langs/?username=jacelo&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats-blond-six-56.vercel.app/api/top-langs/?username=jacelo&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" />
 </div>
 
 ---
