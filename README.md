@@ -6,9 +6,9 @@ I’m passionate about building robust and scalable applications using modern te
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-j9qdl5jfk-junes-projects-f4b802cf.vercel.app/api?username=jacelo&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats-j9qdl5jfk-junes-projects-f4b802cf.vercel.app/api/top-langs/?username=jacelo&layout=compact&theme=radical)
+![jacelo's Stats](https://github-readme-stats.vercel.app/api?username=jacelo&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![jacelo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jacelo&theme=vue-dark&hide_border=false)
+![jacelo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacelo&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
