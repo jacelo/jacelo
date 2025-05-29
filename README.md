@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm June 👋
 
 Welcome to my GitHub profile!  
 I’m passionate about building robust and scalable applications using modern technologies, testing methodologies, and agile practices.
